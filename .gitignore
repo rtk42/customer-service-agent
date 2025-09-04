@@ -1,0 +1,19 @@
+/Data
+/.env
+/.DS_Store
+/.venv
+/Code+Folder/src/__pycache__
+
+
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+
+
+# Index files
+*.index
+
+# PDFs
+*.pdf
